@@ -96,6 +96,3 @@ Attaques classées de la plus grave à la moins critique selon notre analyse :
 - **Messages d'erreur :** le message « L'utilisateur a été identifié » indique qu'un mot de passe est correct avant la vérification du second facteur.
 - **HTTPS :** les captures montrent des tests sur `localhost`, sans preuve de chiffrement. Le chiffrement du trafic reste à valider dans un vrai déploiement.
 
-## Note sur ce dépôt
-
-Ce dépôt présente le projet à partir de son rapport, et le code source complet n'y figure pas. Le code QR, la table des utilisateurs (hash, salt et clés secrètes) et les autres captures sensibles ont été exclus, et les courriels ont été retirés du journal.
